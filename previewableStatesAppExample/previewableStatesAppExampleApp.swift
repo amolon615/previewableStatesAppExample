@@ -11,7 +11,7 @@ import SwiftUI
 struct previewableStatesAppExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SecondNewsView()
         }
     }
 }
